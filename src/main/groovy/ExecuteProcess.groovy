@@ -1,3 +1,3 @@
 package main.groovy
 
-println "git help".execute().text
+println "cmd /c dir".execute().text
